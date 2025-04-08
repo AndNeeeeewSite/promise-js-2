@@ -1,0 +1,23 @@
+{
+  "name": "promise-js-2",
+  "version": "1.0.0",
+  "main": "task1.js",
+  "scripts": {
+    "start": "node task1.js && node task2.js && node task3.js",
+    "task1":"node task1.js",
+    "task2":"node task2.js",
+    "task3":"node task3.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndNeeeeewSite/promise-js-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndNeeeeewSite/promise-js-2/issues"
+  },
+  "homepage": "https://github.com/AndNeeeeewSite/promise-js-2#readme",
+  "description": ""
+}
